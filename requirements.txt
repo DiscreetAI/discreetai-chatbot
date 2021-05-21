@@ -45,7 +45,7 @@ s3transfer==0.2.1
 semantic-version==2.5.0
 six==1.11.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 texttable==0.9.1
